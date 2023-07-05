@@ -5,7 +5,7 @@
       "tsx": false,
       "decorators": true
     },
-    "target": "es2020",
+    "target": "esnext",
     "keepClassNames": true,
     "transform": {
       "legacyDecorator": true,
